@@ -14,6 +14,16 @@
 npm install
 ```
 
+## Setup
+create a file in the root directory named 'config.json' and paste in this code:
+```sh
+{
+	"prefix": "!",
+	"token": "your-token-goes-here"
+}
+```
+feel free to change the prefix to your liking and dont forget to insert your bot token!
+
 ## Run tests
 
 ```sh
